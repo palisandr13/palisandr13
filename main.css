@@ -1,0 +1,25 @@
+.txt {
+    color: brown;
+    background: aqua;
+    text-align: center;
+    font-family: Constantia;
+}
+a {
+    text-decoration: none;
+}
+ul {
+    color: chartreuse;
+    background: black;
+}
+img {
+    width: 200px;
+    height: 300px;
+}
+.xtx {
+    color:brown ;
+    background: aliceblue;
+}
+.small {
+    color: darkgreen;
+    background: coral;
+}
